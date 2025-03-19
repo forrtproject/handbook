@@ -1,0 +1,21 @@
+body {
+  font-family: 'Bierstadt', sans-serif;
+  font-size: 11px;
+}
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+h1, h2, h3 {
+  color: #17455E;
+}

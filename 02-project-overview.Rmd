@@ -1,0 +1,20 @@
+# **Project Overview**
+
+iRISE consists of 15 partners, from nine countries and includes 37 members. The iRISE partners are Universitaetsmedizin Berlin (CHARITE), Sveuciliste U Splitu Medicinski Fakultet (MEFST), Karolinska Institutet (KI), Stichting Radboud Universitair Medisch Centrum (RUMC), Eatris Eric (EATRIS), Helsingin Yliopisto (UH), Miller International Knowledge Sl (MIK), University Of Cyprus (UCY), Guarantors Of Eqipd E.V. (GOEQIPD),	Tilburg University (TiU), Universiteit Maastricht (UMAAS), Universitaet Zurich (UZH), Universitaet Bern (UBERN), Heriot Watt University (HW), The University Of Edinburgh (UEDIN).  
+iRISE receives funding from the European Union's Horizon Europe research and innovation programme under grant agreement No 101094853. The project also receives funding from UK Research and Innovation (UKRI) and the Swiss State Secretariat for Education, Research and Innovation (SERI): Direct Funding for Collaborative Projects as part of the transitional measures.
+
+## Horizon Europe Framework
+Horizon Europe is the European Union's framework program for research and innovation. It aims to address societal challenges, promote scientific excellence, and drive economic growth and competitiveness in Europe. The program supports research and innovation activities across various fields, including but not limited to health, environment, digital technologies, and social sciences. Horizon Europe's objectives include:
+
+*	**Excellence in Research**: Enhancing Europe's research and innovation capacities by fostering scientific excellence and breakthrough discoveries.
+*	**Global Challenges and Industrial Competitiveness**: Addressing pressing global challenges, such as climate change, health, and digitalization, while boosting the competitiveness of European industries.
+*	**Open Science and Open Innovation**: Promoting open access to research results, data, and publications to accelerate knowledge sharing and collaboration.
+*	**Innovative Partnerships**: Establishing partnerships between academia, industry, and other stakeholders to drive innovation and address real-world challenges.
+
+## Grant Agreement
+Projects funded under Horizon Europe are governed by grant agreements between the European Commission and the project consortium. These agreements outline the terms and conditions of the funding and the responsibilities of all parties involved. A copy of the [iRISE Grant Agreement](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=cuFpdE) can be found in the iRISE SharePoint. 
+
+## Horizon Europe Call 
+iRISE is funded under Horizon Europe Framework Programme (HORIZON):
+Call: European Research Area HORIZON-WIDER A-2022-ERA-01) 
+TOPIC ID: HORIZON-WIDERA-2022-ERA-01-41; [Increasing the reproducibility of scientific results](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-widera-2022-era-01-41) 

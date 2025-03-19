@@ -1,0 +1,85 @@
+---
+site: bookdown::bookdown_site
+output:
+  bookdown::html_document2:
+    toc: yes
+    css: "style1.css"
+---
+
+# **Project Management Handbook**
+
+## History of Changes
+
+| **Date**                                  |             | **Page/section** | **Nature of change and reason / justification of change proposed**                                                             |
+|-------------------------------------------|-------------|------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Change of project manager**             | 07 May 2024 | Throughout       | Our named project manager changed from Marina Mattera to Rebecca Fischer -- this is has been reflected throughout the document |
+| **Change in Steering Committee**          | 07 May 2024 | Throughout       | Gustav Nilsonne has stepped down as co-lead for WP5 and no longer sits on the SC                                               |
+| **Change in Deliverable review timeline** | 07 May 2024 | Section 8.2      | Adjustment of deliverable review timeline to allow for edits to be made in response to reviewer comments                       |
+| **Correction of dates**                   | 13 Aug 2024 | Section 8.2      | Corrected dates for deliverable deadlines                                                                                      |
+| **Addition of section**                   | 13 Aug 2024 | Section 5.6      | Addition of Milestone Review Process                                                                                           |
+| **Addition of linked resource**           | 14 Aug 2024 | Section 1.3      | Addition of link to Completed Milestones folder on SharePoint                                                                  |
+
+## List of Abbreviations
+
+|        |                                                                                          |
+|--------|------------------------------------------------------------------------------------------|
+| D      | Deliverable                                                                              |
+| DMP    | Data Management Plan                                                                     |
+| DoA    | Description of the Action                                                                |
+| DoW    | Description of Work                                                                      |
+| EC     | European Commission                                                                      |
+| EU     | European Union                                                                           |
+| GA     | Grant Agreement                                                                          |
+| M      | Month                                                                                    |
+| MS     | Milestone                                                                                |
+| OSIRIS | Open Science to Increase Reproducibility in Science                                      |
+| PC     | Project Coordinator                                                                      |
+| PM     | Project Manager                                                                          |
+| PMO    | Project Management Office                                                                |
+| PU     | Public                                                                                   |
+| R      | Report                                                                                   |
+| SEAB   | Scientific and Ethical Advisory Board                                                    |
+| SERI   | Swiss State Secretariat for Education                                                    |
+| SC     | Steering Committee                                                                       |
+| SMART  | Specific, Measurable, Achievable, Relevant, and Time-bound                               |
+| UKRI   | United Kingdom Research and Innovation                                                   |
+| TIER2  | Enhancing Trust, Integrity and Efficiency in Research through next-level Reproducibility |
+| WP     | Work Package                                                                             |
+
+## List of linked iRISE resources
+
+-   [iRISE SharePoint](https://charitede.sharepoint.com/sites/iRISE/Shared%20Documents/Forms/AllItems.aspx)
+
+-   [iRISE Microsoft Teams](https://teams.microsoft.com/l/team/19%3aBeyH-eKopgikP84hU4FuJggrTXugFiipnYUq8krUnAE1%40thread.tacv2/conversations?groupId=63cd0d10-aa1b-4db9-9bb0-ed23b58ec69b&tenantId=afe91939-923e-432c-bc66-cbc3ec18d02c)
+
+-   [iRISE Grant Agreement](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=cuFpdE)
+
+-   [Description of Action](https://charitede.sharepoint.com/:b:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/GA%20amendment%20Sept.%202023/iRISE_Annex1B_DoA_2023-09-25_v4_clean.pdf?csf=1&web=1&e=CGlIBC)
+
+-   [Mailing List](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Mailing%20List%20Full.docx?d=w78aadfc66f9b4bdc878dd41138496398&csf=1&web=1&e=xnGHy4)
+
+-   [iRISE Zotero Library](https://www.zotero.org/groups/5148075/irise_library)
+
+-   [Dissemination Activity Record](https://charitede.sharepoint.com/:x:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Activity%20Record.xlsx?d=w47a1cbfaa6c34ab5aee84a6dba643912&csf=1&web=1&e=9cfBaW)
+
+-   [Dissemination, Exploitation, and Communication Plan](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Plan_Draft%201.2.docx?d=w7a63d0ea4a374c1bbe3b7fd98d0c7d2f&csf=1&web=1&e=jY54DT)
+
+-   [iRISE Logos](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/Branding%20and%20Website/iRISE%20Logos/Logos?csf=1&web=1&e=mh7pQM)
+
+-   [Templates Folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates?csf=1&web=1&e=P8QVBa)
+
+    -   [PowerPoint](https://charitede.sharepoint.com/:p:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/PPT%20Template.pptx?d=w197f096e83fa4576a6f82bdcd51489b2&csf=1&web=1&e=MREwQ4)
+
+    -   [Word Docs](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/DocTemplate.docx?d=wcb083ece13604791b342b0bb693fe067&csf=1&web=1&e=f61QPR)
+
+    -   [PowerPoint Theme](https://charitede.sharepoint.com/:u:/r/sites/iRISE/Shared%20Documents/Branding%20and%20Website/iRISE.thmx?csf=1&web=1&e=fyKrZL)
+
+    -   [Deliverable Template](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/DeliverableTemplate.docx?d=w4ec2474158ab425f86655df0f923297d&csf=1&web=1&e=drgFm9)
+
+-   [Deliverables Submitted Folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Project%20Outputs%20(Deliverables,%20Milestones,%20Papers)/Deliverables%20submitted?csf=1&web=1&e=L4NinF)
+
+-   [Milestones folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Project%20Outputs%20(Deliverables,%20Milestones,%20Papers)/Milestones?csf=1&web=1&e=JOQE7E)
+
+-   [iRISE Project Management Planner](https://tasks.office.com/charitede.onmicrosoft.com/en-US/Home/Planner/#/plantaskboard?groupId=63cd0d10-aa1b-4db9-9bb0-ed23b58ec69b&planId=P4fliqzuUEeyiZo6z3Z3L5YAAegq)
+
+-   [Risk Assessment folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/WP7/Project%20Management/Risk%20Assessments?csf=1&web=1&e=v2Nm3v)

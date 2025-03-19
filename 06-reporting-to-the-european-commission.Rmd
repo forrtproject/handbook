@@ -1,0 +1,98 @@
+# **Reporting to the European Commission**  
+Over the course of the project two periodic reports (the latter of which is the final report) must be submitted to the European Commission. They cover the following project periods:  
+
+* Period 1: M1-M18 = 1 September 2023 – 28 February 2025  
+* Period 2: M19-M36 = 1 March 2025 – 28 August 2026  
+
+The periodic reports will be submitted by the coordinator within 60 days of the end of each reporting period, which is in M18 and M36 respectively.  
+General reporting principles will be as follows:  
+
+*	The Project Coordinator will request WP leaders to report on their WP using a generic reporting template provided by the Project Coordinator;  
+*	WP leaders will prepare inputs for the periodic report by collecting inputs from their WP task leaders;  
+*	The Project Coordinator will combine all this information into a coherent periodic report.  
+*	All partners will then review this report.  
+*	The Project Coordinator will then revise appropriately and submit to the EC by the required date.  
+*	Please note that all partners must keep time records of the hours worked on the action, in accordance with Article 20.1(e) of the Grant Agreement.  
+
+## Periodic Technical Reporting  
+
+The periodic technical reports cover the work conducted by the project partners between M1 and M18, and M19 and M36. The periodic reports will follow the official template and will contain the following parts:  
+
+**Part A**: Is created by the participant portal’s IT system based on information entered by participants.  
+
+*	Summary for publication  
+
+	+ Summary of the context and overall objectives of the project  
+	+ Work performed from the beginning of the project to the end of the period covered by the report including main results achieved so far  
+	+ Progress beyond the state of the art and expected potential impact  
+
+*	Overview of researchers involved in the project  
+*	Deliverables  
+*	Milestones  
+*	Critical Risks  
+*	Project Pathway to Impact  
+*	Results Ownership List  
+*	Publications  
+*	Datasets  
+*	Intellectual property rights  
+*	Standards  
+*	Other results  
+*	Dissemination and communication activities  
+*	Impact  
+*	Research Infrastructure 
+
+**Part B**: Part B will be compiled in a Word document within the Teams environment, based on inputs provided by the WP leads and then submitted as one comprehensive report by the coordinator.  
+
+* Explanation of the work carried out by the beneficiaries and overview of the progress  
+
+  + Objectives of the project  
+  + Explanation of the work carried out in each WP  
+  + Impact  
+
+*	Follow-up of recommendations and comments from previous review(s) (if applicable)  
+*	Open Science  
+*	Deviations from Description of Action (Annex 1 & 2) (if applicable) 
+
+## Periodic Financial Reporting  
+
+Financial statements cover each partner’s cost claim for the previous reporting period. They will be submitted to the European Commission electronically via the participant portal. An individual financial statement (Annex 4 of the [GA](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/General/Grant Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=IRbwUs)) from each beneficiary will provide an explanation of the use of resources and the information on subcontracting and in-kind contributions provided by third parties from each beneficiary for the reporting period concerned. Before submission, the financial statement must be signed by the financial signatory at each partner institution (FSIGN). The request for interim payment will be also submitted together with the financial statement. If a partner does not submit their financial reporting on time, no interim payment to the respective partner will be made during this period.  
+The individual financial statement must detail the eligible costs (outlined under Article 6 of the [GA](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/General/Grant Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=IRbwUs)) for each budget category (see Annex 2). Eligible costs include: 
+
+*	direct personnel costs;  
+*	direct costs of subcontracting;  
+*	direct costs of providing financial support to third parties;  
+*	other direct costs (travel costs, equipment, other goods and services);  
+*	indirect costs (flat rate 25%)  
+
+All records and supporting documents of costs must be kept as proofs (see article 20 of the [GA](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/General/Grant Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=IRbwUs)). Further information related to financial management can be found in the EC [Online Manual](https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual).  
+
+**To ensure smooth and accurate financial reporting, iRISE will undertake a “dry run” of the financial reporting exercise in Month 6 – February 2024.**   
+
+## Continuous Reporting
+
+Continuous Reporting is available from the beginning of the project and can be edited by all beneficiaries in SyGMa (System for Grant Management). A snapshot of the data entered within the tabs for continuous reporting will also be included in the periodic reports when submitted. More information on continuous reporting can be found [here](https://webgate.ec.europa.eu/funding-tenders-opportunities/display/IT/Continuous+Reporting).
+
+### Reporting on Impact
+
+Different SyGMa tabs (Impact, Impact continuation, Beneficiaries feedback) include questionnaires to monitor and evaluate the Horizon Europe programme performance. There, progress of the impact is recorded.
+
+*	Impact questionnaire: collects information about technology readiness, Sustainable Development Goals (SDGs) and citizen engagement
+*	Impact continuation questionnaire: records information about scientific, societal, environmental and economic impacts of project implementation
+*	Beneficiaries feedback questionnaire asks about key factors fostering and impeding the impact of the progress of the project
+
+### Reporting on Communication, Dissemination and Exploitation
+
+Reporting on communication, dissemination and exploitation follows a qualitative rather than a quantitative approach. Two separate tabs exist in SyGMa on communication and dissemination activities. The main communication and dissemination activities should be added to these tabs, especially when costs were charged to the project. Activities should be described including their purpose, the target audience and their status. It is critical the iRISE consortium members regularly enter details into the [Dissemination Activity Record](https://charitede.sharepoint.com/:x:/r/sites/iRISE/Shared Documents/WP6/iRISE Dissemination Activity Record.xlsx?d=w47a1cbfaa6c34ab5aee84a6dba643912&csf=1&web=1&e=9cfBaW) to facilitate this reporting.  
+Entries can be removed from SyGMa if they have not been included in a periodic report and edited if they have not been included in an intermediate report. The final periodic report must include at least one communication and one dissemination activity with the status “delivered” and no activities with the stats “ongoing” or “postponed”.  
+
+### Reporting on Project Results
+
+Continuous reporting on project results is also required, focusing on content. The according tabs in SyGMa are called “Results” and “Other Results”. Name and type of results is to be recorded, if they are Key Exploitable Results, audience or target groups and steps undertaken towards exploitation and market maturity.
+
+### Project Summary
+
+The project summary is automatically published in CORDIS with the proposal abstract already filled in. It should be continuously updated when the project produces results. The text should be in a simple language and understandable to externals. Short descriptions intended for wider audience should be included in the “work performed” and “results beyond the state of the art”. Another question is included on the “policy relevance” of the project to the policy objectives of the call.
+
+### Researchers
+
+The questionnaire on researchers involved in the project can be updated anytime in SyGMa when changes occur within the list of participating researchers. Additions should only be made for researchers as defined in the Frascati Manual and for researchers receiving their salary from other sources who are still contributing to the project’s activities. If a researcher does not participate or is removed (especially if their participation was considered very important at the time of the proposal), a justification must be given. Each partner will be responsible for updating the information on the EU’s platform as the project progresses, also informing the PMO of such changes. If these modifications also result in a change in Task Leaders, this PM Handbook will also be updated with the latest information, as well as all WP Leads being updated during the SC meetings.

@@ -1,0 +1,51 @@
+# **Introduction**
+
+Our vision, in iRISE, is to deepen understanding of reproducibility drivers, evaluate their effectiveness and provide concrete solutions to enhance scientific evidence. We will foster a research culture of openness, integrity, and trustworthiness to advance reproducibility and knowledge.
+
+## Background
+
+Reproducibility is a complex and multifaceted phenomenon that encompasses a continuum of practices related to the reproduction and replication of scientific results. iRISE takes an integrated approach to understanding, investigating and guiding strategies to address irreproducibility.
+
+## Objectives
+
+Our objectives are to:
+
+1.  develop working definitions and a general framework for diagnosing and addressing reproducibility problems, define costs, benefits and opportunities, and assess the utility of theoretical evidence in forecasting the success of interventions (WP1),\
+2.  perform scoping and systematic reviews to identify and evaluate existing interventions to improve reproducibility (WP2),\
+3.  explore the interface between reproducibility and research culture, and in particular considerations and mainstreaming of equity, diversity, and inclusion (EDI) (WP3),\
+4.  consult and engage key stakeholder groups in prioritising practices and practical tool development for adoption to increase reproducibility (WP4),\
+5.  test efficacy and feasibility of specific interventions to increase reproducibility (WP5),\
+6.  curate and integrate these different types of evidence to increase reproducibility for dissemination and implementation (WP6) and\
+7.  effectively project manage iRISE to achieve our objectives in a timely manner within budget (WP7).
+
+## Importance of effective project management
+
+iRISE involves multiple partners, disciplines and objectives. We need to coordinate and manage our interactions to ensure:
+
+1.  We progress in a timely manner, meeting milestones and deliverables\
+2.  We facilitate effective communication and engagement within and outside the consortium\
+3.  Our work is rigorous, maintaining high-quality outputs and conduct\
+4.  We foster collaboration to enable us to work together smoothly despite geographical and disciplinary differences\
+5.  We promote accountability by clearly defining roles, responsibilities and tasks. This will include thorough documentation which is essential for reporting and future reference
+
+Project management is the backbone that will hold us together. It ensures that the diverse elements of the project work harmoniously toward achieving our objectives, maximising impact, and delivering outcomes on time and within budget.
+
+## Purpose and structure of this handbook
+
+This handbook provides practical insights and step-by-step guidance for the Project Management Office (PMO) and consortium members to ensure the successful execution of iRISE. All partners of the consortium should refer to this handbook throughout the duration of the project.\
+The handbook is designed to align with EU regulations, guidelines, and best practices relevant to project management and is structured as follows:
+
+-   [Project Overview](#project-overview)\
+-   [Consortium Structure](#consortium-structure)\
+-   [Communication and Reporting](#communication-and-reporting)\
+-   [Data and File Management](#data-and-file-management)\
+-   [Reporting to the European Commission](#reporting-to-the-european-commission)\
+-   [Deliverable Management and Quality Assurance](#deliverable-management-and-quality-assurance)\
+-   [Overview of Key Dates](#overview-of-key-dates)\
+-   [Intellectual Property and Dissemination](#intellectual-property-and-dissemination)\
+-   [Ethics and Compliance](#ethics-and-compliance)\
+-   [Appendices](#appendix-1-ethical-self-assessment-and-ethical-risks-identification)
+
+The content is intended to help members and the project adhere to EU requirements and maximise our chances of executing a successful project.\
+The handbook will be stored on the [iRISE SharePoint](https://charitede.sharepoint.com/sites/iRISE/Shared%20Documents/Forms/AllItems.aspx) and will act as a living document, updated periodically to reflect any required changes. References to other documents are via file links to the iRISE SharePoint to ensure that information is up-to-date and a list of the documents linked is provided at the end of the book.\
+Please contact Sarah McCann ([sarah.mccann\@bih-charite.de](mailto:sarah.mccann@bih-charite.de){.email}), Emily Sena ([emily.sena\@ed.ac.uk](mailto:emily.sena@ed.ac.uk){.email}) or Rebecca Fischer ([rebecca.fischer\@uni-jena.de](mailto:rebecca.fischer@uni-jena.de){.email}) if you have any enquires or need support related to the handbook.

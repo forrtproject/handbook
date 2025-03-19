@@ -1,0 +1,10 @@
+delete_merged_file: true
+book_filename: iRISE Project Management Handbook
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: ""
+output:
+  bookdown::html_document2:
+    css: "style1.css"
+

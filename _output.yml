@@ -1,0 +1,6 @@
+bookdown::gitbook:
+  css: "style1.css"
+  config:
+    toc:
+      before: |
+        <li class="toc-logo"><a href="./"><img src="docs/images/logo.png"></a></li>

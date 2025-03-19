@@ -1,0 +1,230 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# **Consortium Structure**
+
+iRISE has established a well-defined project management and governance
+structure to ensure the efficient organization of the project,
+facilitate decision-making processes, and foster collaboration in line
+with the project's description of action. Our consortium management
+structure consists of the following key roles:\
+
+**Project Coordinators**: iRISE is co-coordinated by **Dr Sarah McCann
+(Charité)** and **Professor Emily Sena (UEDIN)**. McCann and Sena are
+responsible for overseeing the project as a whole, ensuring alignment
+with its objectives, maintaining quality, adhering to the project
+schedule, and managing the budget. Additionally, McCann, as the
+designated coordinator in the Grant Agreement, serves as the primary
+contact point for the European Commission.\
+Supported by the Project Management Office (PMO), the BIH QUEST Center
+Office Administration Team, and the Research Grants Office at Charité,
+the co-coordinator's main responsibilities are to: (1) ensure efficient
+project management; (2) guide the project's decision-making process; (3)
+alternate chairing of the Steering Committee and lead the set of
+activities to be carried out by this committee; (4) coordinate
+technical/support activities across work-packages; (5) maintain and
+regularly update the contents of this project management handbook to
+support quality and timely delivery of iRISE deliverables; and (6) act
+as the Financial Officer within the Consortium, including managing the
+preparation of financial statements for the Commission.\
+
+**Project Manager (Rebecca Fischer, MIK)**: The Project Manager is
+responsible for the day-to-day coordination and administration of the
+project. She will ensure that the management procedures as defined below
+are carried out throughout the project's lifetime and that supporting
+tools and templates will be made available. Management tasks include
+consolidation of the project planning, progress reports, milestone
+monitoring, financial management, etc. by gathering and aggregating
+inputs from the project partners. The project manager should be the
+first point of contact for project iRISE enquiries and will direct
+enquiries to the relevant persons or information sources.\
+
+**Project Management Office (PMO)**: The PMO, consists of the
+Co-coordinators (McCann and Sena) and the Project Manager (Fischer). The
+PMO will work collectively to successfully manage the project to meet
+our objectives, milestones and deliverables. They are responsible for
+financial management, modifications to the grant or consortium
+agreements and collecting information for the purposes of reporting to
+the European Commission. The PMO is also responsible for the
+organisation of project meetings, including ensuring work package and
+steering committee meetings are held, and the planning and chairing of
+the annual iRISE General Assembly. The PMO will meet at least monthly to
+ensure its effective performance.\
+
+**Steering Committee (SC)**: Comprising eight members, the iRISE SC
+includes each of the work package leads: **McCann** (Charité), **Sena**
+(UEDIN), **Heyard** (UZH), **Fanelli** (HW), **Wever** (RUMC),
+**Marušić** (MFEST), **Miller** (MIK) and **Currie** (UEDIN). The SC is
+responsible for the implementation of the project, quality management
+and is the highest decision-making body of the consortium. The main
+responsibilities of the SC include: (1) the definition of the overall
+project strategy; (2) fulfilling the Commission requirements pertaining
+to preparation of progress and financial reports; (3) deciding on
+long-term exploitation plans; (4) conflict resolution within the
+Consortium, in line with the details described in the iRISE Conflict
+Resolution Policy; (5) technical coordination and decision-making
+(assessment of the technical work, interchange of technical information
+amongst partners, submission of deliverables, etc.); and (6) risk
+management. The SC will meet quarterly, requires 2/3 majority for
+quorum, with decisions reached through a simple majority process.\
+
+**Work Package (WP) Leads**: iRISE comprises seven WPs, each led by 1-2
+individuals. The leads are:\
+
+-   WP1 - **Heyard** (UZH), **Fanelli** (HW),
+-   WP2 and WP7 - **McCann** (Charité), **Sena** (UEDIN),
+-   WP3 - **Miller** (MIK),
+-   WP4 - **Marušić** (MFEST),
+-   WP5 - **Wever** (RUMC), and
+-   WP6 - **Currie** (UEDIN).
+
+WP leads are responsible for ensuring the delivery of their WP
+objectives. They are responsible for implementing and managing tasks and
+providing guidance and support to task leads as appropriate. They are
+responsible for ensuring regular, timely and effective communication
+between all members of the WP, including the organisation and chairing
+of WP meetings. They oversee the risk management for all tasks within
+the work package and are responsible for all technical aspects of their
+WP (meeting of milestones, timely submission of deliverables and
+reports, and the quality assurance of all WP outputs). WP leads also
+provide reports back to steering committee.\
+
+**Task Leaders**: Work within WPs is divided into tasks with designated
+task leaders. Task leaders are responsible for the technical management
+of specific activities, including planning, monitoring and reporting to
+the WP leader. Each individual partner holds ultimate responsibility for
+the technical and administrative outputs assigned to them.\
+
+| WP    | **Task**                                                                                                                                                                     | **Lead**            |
+|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
+| **1** | 1.1 Background scoping and framing                                                                                                                                           | Bernhard Voelkl     |
+|       | 1.2 Modelling irreproducibility causes and remedies                                                                                                                          | Daniele Fanelli     |
+|       | 1.3 Validating statistical methods to assess and improve reproducibility                                                                                                     | Rachel Heyard       |
+|       | 1.4 Empirical meta-meta-studies                                                                                                                                              | Rachel Heyard       |
+|       | 1.5 Testing meta-scientific predictions                                                                                                                                      | Daniele Fanelli     |
+| **2** | 2.1 Create a Systematic Online Living Evidence Summary (SOLES) of candidate interventions                                                                                    | Kaitlyn Hair        |
+|       | 2.2 Perform systematic reviews of interventions that have been evaluated for effectiveness                                                                                   | Sarah McCann        |
+|       | 2.3 Develop a framework to evaluate candidate reproducibility interventions                                                                                                  | Carlijn Hooijmans   |
+| **3** | 3.1 To provide a cross-cutting "support service" that lends a research culture and EDI lens to other WPs                                                                     | Stephanie Zellers   |
+|       | 3.2 Identifying areas of underrepresentation in research practitioners and participants                                                                                      | Katharina Miller    |
+|       | 3.3 Defining the characteristics of those currently engaged in reproducible research                                                                                         | Maia Salholz-Hillel |
+|       | 3.4 Develop a framework to determine the EDI impacts of interventions                                                                                                        | Maia Salholz-Hillel |
+|       | 3.5 Explore how EDI considerations intersect with diversity of research culture                                                                                              | Daniele Fanelli     |
+|       | 3.6 Gather missing data for a best practice guideline                                                                                                                        | Maia Salholz-Hillel |
+| **4** | 4.1 Create a priority map of practices and tools                                                                                                                             |                     |
+|       | 4.2 Identify facilitators and barriers to introducing practices and tools                                                                                                    |                     |
+| **5** | 5.1 Study design optimisation and protocol registration                                                                                                                      | Rachel Heyard       |
+|       | 5.2 Automated screening tools to improve reporting                                                                                                                           | Tracey Weissgerber  |
+|       | 5.3 Computational reproducibility review                                                                                                                                     | Gustav Nilsonne     |
+|       | 5.4 The EQIPD Quality System                                                                                                                                                 | Björn Gerlach       |
+|       | 5.5 Statistical interventions                                                                                                                                                | Hanno Würbel        |
+|       | 5.6 Output synthesis                                                                                                                                                         | Kim Wever           |
+| **6** | 6.1 Develop a plan for dissemination and exploitation including communication activities                                                                                     | Gillian Currie      |
+|       | 6.2 Develop a data management plan (DMP)                                                                                                                                     | Rachel Heyard       |
+|       | 6.3 Develop a framework to integrate different types of data on the effectiveness of interventions for reproducibility and provide a final reflection on project experiences | Gillian Currie      |
+|       | 6.4 Provide a policy briefing to summarise the policy options to increase reproducibility with recommendations                                                               | Daniele Fanelli     |
+|       | 6.5 Create an open knowledge base                                                                                                                                            | Sarah McCann        |
+|       | 6.6 Deliver Train-the-Trainer courses                                                                                                                                        | Katharina Miller    |
+|       | 6.7 Foster relationships with stakeholders to facilitate collaboration, alignment of practices and joint action to increase reproducibility                                  | Gustav Nilsonne     |
+| **7** | 7.1 Project management, communication and meeting organisation                                                                                                               | Rebecca Fischer     |
+|       | 7.2 Contract management, reporting and financial management                                                                                                                  | Rebecca Fischer     |
+|       | 7.3 Project governance, support of the project bodies and advisory board                                                                                                     | Sarah McCann        |
+|       | 7.4 Gender monitoring, research ethics, risk and quality management                                                                                                          | Marina Mattera      |
+|       | 7.5 Internal and external co-ordination and liaison                                                                                                                          | Sarah McCann        |
+
+**Scientific and Ethical Advisory Board (SEAB):** The SEAB comprises
+international experts representing five stakeholder groups (i.e.,
+researchers, publishers, infrastructure providers, funders and research
+networks) who have demonstrable interest and expertise in
+reproducibility. The SEAB provides strategic, ethical and scientific
+advice, offering valuable feedback on our progress to advance our aims.
+We will consult the SEAB on certain aspects of the project to ensure
+that what we are producing is fit for purpose and useful for the
+community. After each General Assembly, the co-coordinators meet with
+the SEAB for a more in-depth discussion of performance, ethical
+concerns, and further guidance. The SEAB acts in an advisory capacity
+without voting rights or decision-making power.\
+
+Confirmed members of the SEAB are:
+
+| Representing            | Name               | Organisation (country)                                        |
+|:------------------------|:-------------------|:--------------------------------------------------------------|
+| Publisher               | Catriona MacCallum | Wiley (UK)                                                    |
+| Funder                  | James Morris       | Science Europe (Belgium)                                      |
+| Infrastructure Provider | Tim Errington      | Open Science Framework (USA)                                  |
+| Research Network        | Antonia Schrader   | Reproducibility Networks in Europe                            |
+| Research Network        | Flavio Azevedo     | Framework for Open and Reproducible Research Training (FORRT) |
+| Researcher              | Kelly Cobey        | University of Ottawa (Canada)                                 |
+
+**Stakeholder Forum (SF):** We have established a SF that includes wide
+range of relevant stakeholders that includes: UK Reproducibility
+Network, Swiss Reproducibility Network, Slovak Reproducibility Network,
+German Reproducibility Network, Australian Reproducibility Network,
+Finnish Reproducibility Network, Italian Reproducibility Network,
+Norwegian Reproducibility Network, ReproducibiliTEA, RIOT Club, MetaMelb
+Research Group, David Moher (Centre for Journalology, Ottowa Hospital
+Research Institute), Thomas Steckler (Janssen), The Open Research
+Funders Group, Ensure Value in Research Group, Science Europe, Wiley,
+BMJ, Springer Nature, PLOS, Hindawi, University of Oxford, British
+Neuroscience Association, Janssen Pharmaceuticals, CERN, EATRIS, Centre
+for Open Science.
+
+Representatives from the Stakeholder Forum are invited to General
+Assemblies where we will facilitate dialogue for reflection on our
+approaches and outputs. The SF will help shape our actions to ensure
+workable/feasible/appropriate activities and this interaction will
+foster support from the wider community, as shown on Figure 1.
+
+![Figure 1. Graphical depiction of the iRISE consortium management
+structure](images/Consortium%20structure.png)
+
+## Project Plan
+
+A well-structured project plan serves as a roadmap to achieve our
+objectives and milestones efficiently. This section provides guidance
+and descriptions on the iRISE project plan, including work package
+descriptions, tasks, milestones and timelines. The [Description of
+Action
+(DoA)](https://charitede.sharepoint.com/:b:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/GA%20amendment%20Sept.%202023/iRISE_Annex1B_DoA_2023-09-25_v4_clean.pdf?csf=1&web=1&e=CGlIBC)
+and [iRISE Grant
+Agreement](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=cuFpdE)
+include this information in detail.\
+**Work Package Descriptions**: Each work package (WP) is a critical
+component of the iRISE project. WP descriptions outline the purpose,
+scope, and tasks of each AP. Work package leaders and team members
+should use these descriptions as a reference for their responsibilities.
+Aligning work packages with the overall project objectives is
+essential.\
+**Task Plans**: Tasks are the building blocks of work packages that
+describe the individual activities. Individuals are assigned
+responsibilities within tasks and clear timelines for each task are set
+considering dependencies between tasks and work packages.\
+**Milestone Definition**: Milestones represent significant project
+achievements. They are Specific, Measurable, Achievable, Relevant, and
+Time-bound (SMART). Milestones help track progress and ensure alignment
+with the project's objectives.\
+**Budget Plan**: Substantial time and consideration were given to budget
+planning for the successful execution of iRISE. The budget plan is
+detailed in the Grant Agreement. Eligible expenses and how to monitor
+and report on budget use are also detailed in the Grant Agreement and we
+encourage consultation with your European Research Office (or
+equivalent) to assist with ensuring partners keep within their allocated
+budget.\
+**Risk Management**: It is critical that project risks are identified
+and managed, including a description of mitigation plans.\
+**Change Management**: Over the lifetime of iRISE, things may evolve and
+require changes to the project plan. Anticipated changes must be
+communicated to the Project Management Office (PMO) as early as possible
+and must include details of the requested change with an evaluation of
+the impact of changes on project goals and timelines.\
+**Quality Assurance**: Maintaining the quality of iRISE deliverables is
+essential throughout the project's lifecycle. The strategy for quality
+control and quality assurance activities is described in further detail
+in the Deliverables section of this handbook.\
+**Collaboration and Communication**: Effective communication and
+collaboration are essential for project success. Tools and platforms for
+sharing project information and strategies are described in detail in
+the Communication and Reporting section of this handbook.

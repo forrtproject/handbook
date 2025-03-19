@@ -1,0 +1,65 @@
+# **Ethics and Compliance**
+Based on self-assessment (included in [Annex 1](#appendix-1-ethical-self-assessment-and-ethical-risks-identification)) and the initial structure of the Project, four main types of ethical considerations have been identified in iRISE:  
+
+*	Human  
+*	Data Protection
+*	Scientific Research  
+*	Artificial intelligence  
+
+Our Project involves the participation of researchers, workers, employees, and other stakeholders, including the collection of their personal data. Considering the Project’s internal stakeholders, i.e., individuals who are affiliated with any of the project’s partners, it is assumed that their participation in all of the projects’ activities follows the principles of fair distribution of benefits and burdens, the respect for people and human dignity, their rights and personal interests, as well as their free, informed consent to partake in the Project.  
+
+Moreover, iRISE involves individuals who are not part of the participants’ staff (beneficiaries, affiliated entities, associated partners, subcontractors, etc.). Participation in this Project will be entirely voluntary. External participants’ informed consent will be obtained, and advised on how any data they provide will be treated. The treatment of the latter is dealt with in detail in the Data Management Plan (DMP). The EU Ethics and data protection decision tree were implemented to identify ethics issues, together with the Horizon Europe Programme Guide V.3.0^[For further details see the EU Programme Guide V.3.0: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf], specifically the Ethics and Integrity section.  
+
+The primary sources of EU and international law are directly linked to the Charter of Fundamental Rights of the European Union, the European Convention on Human Rights (ECHR), and the UN Convention on the Rights of Persons with Disabilities (UNCRPD). This also includes its protocols and other texts, which are included in the reference section and directly relate to:  
+
+1.	EU Charter of Fundamental Rights  
+2.	European Convention for the Protection of Human Rights and Fundamental Freedoms and its Supplementary Protocols.  
+3.	European Code of Conduct for Research Integrity of ALLEA (All European Academies)  
+4.	EU Regulation 2016/679 Protection of natural persons concerning the processing of personal data and the free movement of such data - General Data Protection Regulation (GDPR)  
+5.	Swiss New Federal Act on Data Protection, in alignment with the EU’s GDPR  
+6.	UK Equality Act  
+7.	UK Human Rights Act  
+8.	UK Consumer Rights legislation  
+9.	UK data protection laws  
+
+The EU rules for data protection and safeguarding ethical principles have been consulted and respected, including fundamental ethical principles. Article 8 of the EU Charter of Fundamental Rights^[For further reference see the definitions within Article 8 of the EU Charter of Fundamental Rights: http://fra.europa.eu/en/eu-charter/article/8-protection-personal-data] stipulates that everyone in the EU has the right to the protection of personal data concerning themselves, access to data which has been collected concerning them, and the right to rectify it. The EU General Data Protection Regulation (GDPR) expands this, stipulating the right to erasure. All relevant national, EU and international legislation was consulted during the elaboration of the DMP as well as this document.  
+
+No research in this Project will involve Human Embryonic Stem Cells, Human embryos or human foetal tissues/cells, animals, plants, or other biological entities tampering with or modifying the environment. Furthermore, at the release of this ethics requirements document, no Artificial Intelligence usage was identified neither as a core part of the development of any task within the Project nor as a tool implemented within any of the partner institution’s SOPs. Therefore, it was not considered as an ethical issue.  
+
+Lastly, scientific research was the third type of potential risk linked to ethical issues. In this context, adequately gathering data, implementing the most suitable methodological approach, providing detailed and trustworthy results, as well as not incurring any plagiarism, subcontracting, or non-ethical approaches are at the core of iRISE’s commitment to upholding high ethical research standards by adhering to the European Code of Conduct for Research Integrity (ECCRI).  
+
+## Responsible research practice  
+
+iRISE commits to the highest ethical standards and to follow the [ALLEA European Code of Conduct for research integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf). Responsibility for adhering to these principles lies primarily with the WP leads. In addition, the Project Coordinator and Project Manager will monitor adherence based on the reporting provided during SC meetings.  
+
+## Compliance with Horizon Europe ethical standards  
+
+iRISE is carried out in line with the highest ethical standards and the applicable EU, international and national law on ethical principles. Consortium members commit to and ensure the respect of basic EU values (such as respect for human dignity, freedom, democracy, equality, the rule of law and human rights, including the rights of minorities). The Consortium and the project coordinator have long-standing experience in managing and working in the context of the EU Research and Innovation Framework Programs and other EU projects engaging different stakeholders and communities.  
+
+All beneficiaries of iRISE have been made aware of the ethical principles adopted during the project activities, have participated in the compilation and drafting of this document, and commit to following policies and procedures, as well as complying with the obligations herein disclosed. The Consortium ensures compliance with applicable international, EU and national laws of the iRISE involved partners. It includes the ethical regulations that the EU applies to funded projects, the general ethical recommendations in force in EU countries and the laws applied to sectors that have implicit ethical problems.  
+
+The beneficiaries must act in compliance with ethical principles (including the highest standards of research integrity) and - applicable EU, international and national law as stated in the above sections of this document. No funding can be granted for prohibited activities in all Member States within or outside the EU. No funding can be granted in a Member State for an activity forbidden in that Member State. The beneficiaries must pay particular attention to the principle of proportionality, the right to privacy, the right to the protection of personal data, the right to the physical and mental integrity of persons, the right to non-discrimination, the need to ensure the protection of the environment and high levels of human health protection^[For further details see the EU definition on Data Protection, Necessity and Proportionality: https://edps.europa.eu/data-protection/our-work/subjects/necessity-proportionality_en]. The beneficiaries must ensure that the activities under the action focus exclusively on civil applications.  
+
+Additionally, the Project will be carried out with minimal environmental impact, in alignment with the EU’s objectives for 2050, including but not limited to the EU Green Deal and the EU Taxonomy^[For further details see the EU definition of objectives towards achieving the EU Green Deal: [https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en#:~:text=The%20European%20Green%20Deal%20will%20improve%20the%20well%2Dbeing%20and,healthy%20and%20affordable%20foo](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en#:~:text=The%20European%20Green%20Deal%20will%20improve%20the%20well%2Dbeing%20and,healthy%20and%20affordable%20food)]. In this context, printing will be limited to the essential elements, always using certified paper (i.e., Forest Stewarship Council). Employees working on iRISE-related tasks or WPs will be able to carry out their tasks, wherever possible and in accordance with the partner institutions’ internal Human Resources policies in a flexible work-from-home schedule, thus reducing CO2 emissions and limiting negative environmental impact. Following the Furthermore, travelling will be limited to the agreements established within the Grant Agreement ([GA](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/General/Grant Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=IRbwUs)) to ensure proper deployment of the Project’s activities while limiting the negative environmental impact of these actions.  
+
+## Artificial Intelligence  
+
+The iRISE consortium will be using artificial intelligence as one of the tools that will support the various tasks, activities and WP milestones and deliverables. To ensure adequate compliance and limiting any potential ethical risks, the AI specific Ethics and Compliance, as well as Data Management Policy using this tool will be detailed in the iRISE Data Management Plan. In this document, details of the scope and usage of AI will be determined, related risks will be identified, and a detailed guide on risk management and ethical risk mitigation will be provided.
+Any issues addressing ethical concerns and AI were identified in the self-assessment included in Annex 1 of this document.  
+
+## Conflict resolution policy  
+
+The iRISE consortium agrees on a fair and transparent framework for addressing conflicts that may arise within the project. The conflict resolution policy aims to ensure effective and respectful resolution processes, promoting a harmonious and collaborative environment among consortium members.  
+The current version can be found here: [iRISE_Conflict_Resolution_Policy_2023-09-07_draft_v1.docx](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared Documents/WP7/Project Management/iRISE_Conflict_Resolution_Policy_2023-09-07_draft_v1.docx?d=w8c6c4a152a9046dab8a06017a0b97944&csf=1&web=1&e=Nhj4lf)
+
+## Risk Management  
+
+The consortium members have pre-identified risks and developed preliminary mitigation strategies for each WP, which can be found in the [Risk Assessment folder](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/WP7/Project Management/Risk Assessments?csf=1&web=1&e=v2Nm3v).  
+
+WP leads, in collaboration with task leads, will be required to undertake a formal risk assessment every six months that is presented at alternating SC meeting. Potential issues, contingencies and mitigation strategies must be assessed and described for each task. The potential source of the risk should also be considered (i.e technical, financial, operational, and external factors).  
+
+Risk assessments should be presented in a Risk Matrix, that includes description of the potential impact of identified risks on project objectives and the probability of each risk occurring.  
+
+It is important that insights from risk management are used to improve future activities and execution, and there is ongoing learning from risk events.  
+
+Further information on risk management strategies can also be found in the Data Management Plan. 

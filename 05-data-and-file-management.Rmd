@@ -1,0 +1,30 @@
+# **Data and file management**    
+## File Storage for internal collaboration  
+As described above, all documents must be stored and shared in the corresponding WP section of iRISE SharePoint. To ensure version control and facilitate collaborative writing, file links should be used for sharing documents instead of downloaded versions. Synchronizing the SharePoint to your computer eases access.  
+
+## Data management plan  
+
+The first version of the DMP will be published through DMP online before month 6 [link to follow]. An internal version of the DMP will be deposited on iRISE Microsoft Teams in the section for WP 6. The DMP is populated with the task-specific information collected in the [DMP table on the iRISE teams](https://charitede.sharepoint.com/:x:/r/sites/iRISE/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B8fc7f6ef-0e91-450d-b04b-792fd74e205f%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1). The plan will be regularly updated. Every six months (starting in September 2024), the core DMP team (Heyard and Currie) will meet with relevant iRISE partners to decide whether updates to the DMP are required. Prior to this meeting, task leads will be sent a survey to collect information on whether the management plan for the data outputs they are responsible for has changed. All task leads must fill in the survey, even if nothing has changed. WP leads are requested to contact the DMP core team via email if major updates to the DMP are required (before the next scheduled meeting).  
+
+## Minimal metadata standards  
+
+All data outputs will be complemented with metadata, as outlined in the DMP. The following elements are required:  
+
+1.	**Title**: title describing the data output at hand.  
+2.	**Principal Investigator or Creator**: the main person(s) responsible for the intellectual content, with affiliation(s).  
+3.	**Contributor(s)**: any other person(s) who contributed to the data output with affiliation(s).  
+4.	**Funding**: funding source of the project leading to the data output (iRISE and additional funding sources must be acknowledged here).  
+5.	**References and citations**: Citations to relevant work or other objects/material leading to the data output or using the data output. Only cite those articles or material that are important for the data output to be reusable and interpretable.  Specifically, if applicable, cite any software or material needed to interact with the data.  
+6.	**Summary | Description**: A textual description of the aims of data collection and a summary of the data output itself (in the form of a short abstract).  
+7.	**Keywords**: List of relevant keywords making the metadata findable.  
+8.	**Coverage**: when and where was the data collection - or the project - started and when was it finalized.  
+9.	**Date of publication**: Date of data deposition (first – and new versions)  
+10.	**Unit of observation**  
+11.	**Population**: information on the population of interest represented or targeted in the data output.  
+12.	**Data type and format**: information on the type and format of the data collected.  
+13.	**Sampling and weighting**: information on whether any sampling or weighting was used in the data acquisition, and if so, which type or method of sampling and/or weighting was used.  
+14.	**Mode of Collection**: information on how the data was collected, on the method used for data collection.  
+15.	**DOI**  
+16.	**Licenses and restrictions**  
+17.	**Ethical considerations**: if ethical approval was needed and acquired, the metadata should link or cite the ethics approval.  
+18.	**Description of variables**: if possible, this should be done in a separate code book or data dictionary.  

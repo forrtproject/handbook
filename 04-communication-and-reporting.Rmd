@@ -1,0 +1,122 @@
+# **Communication and Reporting**
+
+## Internal communication
+
+### Emails
+
+Day-to-day communication will be based on emails. All emails should include "iRISE" in the subject header and WP number where appropriate. An overview of available mailing lists and the complete lists can be accessed in the iRISE SharePoint in the [mailing lists file](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Mailing%20List%20Full.docx?d=w78aadfc66f9b4bdc878dd41138496398&csf=1&web=1&e=xnGHy4). If a person needs to be added/removed from the list (or needs to be added to Microsoft Teams), then each partner should edit the respective list(s) in the mailing lists file.
+
+### Meetings
+
+**WP meetings**: To keep all WP members and project partners up-to-date and coordinate tasks, monthly meetings will be held for each WP. WP leaders will organize and chair the meeting with their WP members. During the first quarter of the project, WP leaders have defined that their monthly meetings will be held according to the information provided in the following table:
+
+| WP  | Date/Time (e.g. First Tuesday of the month 10am CET)                                                        |
+|:----|:------------------------------------------------------------------------------------------------------------|
+| 1   | First Friday of month 2:30pm CET (subject to change)                                                        |
+| 2   | Every 14 days (on a Tuesday) 1:00pm CET                                                                     |
+| 3   | First Tuesday of a month, 10-11 am CET, intended to be changed to more frequent meetings once the WP starts |
+| 4   | TBD once WP4 tasks begin                                                                                    |
+| 5   | Every second Wednesday 10:00-11:00 CET, intended to be changed to monthly meetings after month 6            |
+| 6   | Scheduled monthly in response to doodle                                                                     |
+| 7   | Last Wednesday of the month -- 10:30-11:30 CET                                                              |
+| SC  | Last Wednesday/Thursday of the month every Quarter -- 10:30-12:00 CET                                       |
+
+**SC meetings**: The SC will meet every 3 months (every quarter). SC meetings will be organized and chaired by the PMO. Meetings will be virtual except for those that coincide General Assemblies that will take place in person.\
+In the lead up to each SC meeting, WP leads will be asked to provide a plan for the next 6 months. This plan should include upcoming deliverables, task aims, timeline for each specific step, and areas of priority, integration with other WPs, TIER2 and OSIRIS as well as communication and publication strategy.\
+During less intensive periods or when many partners are absent (e.g., summer), meetings might be held less frequently (e.g., every two months), depending on the project requirements and progress. During busy periods, they may be held more frequently (e.g., every two weeks or upon request).
+
+### Microsoft Teams
+
+All members should be included in the [iRISE Microsoft Teams](https://teams.microsoft.com/l/team/19%3aBeyH-eKopgikP84hU4FuJggrTXugFiipnYUq8krUnAE1%40thread.tacv2/conversations?groupId=63cd0d10-aa1b-4db9-9bb0-ed23b58ec69b&tenantId=afe91939-923e-432c-bc66-cbc3ec18d02c), which is hosted by Charité -- Universitätsmedizin Berlin. Individual members are tagged for the WPs in which they are included. The chat function may be used for communication, but important information must be shared via email.
+
+## File Storage
+
+The [iRISE SharePoint](https://charitede.sharepoint.com/sites/iRISE/Shared%20Documents/Forms/AllItems.aspx) that sits behind our Teams page, hosted by Charité -- Universitätsmedizin Berlin, will serve as a platform for storing, sharing and collaborating on documents. All documents must be stored in the corresponding WP section.\
+To ensure version control and facilitate collaborative writing, file links should be used for sharing documents instead of downloaded versions. This will also reduce email traffic. Synchronizing the SharePoint to your computer eases access.
+
+## Citation Management
+
+Literature will be shared and managed on an [iRISE Zotero Library](https://www.zotero.org/groups/5148075/irise_library). Folders can be created for each WP, task or publication as needed. All members have received the following instructions for joining the library:\
+Install Zotero: <https://www.zotero.org/download/>\
+Instructions for using group libraries Zotero \| Groups: <https://www.zotero.org/groups/>\
+Install the connector plugin for using Zotero in Microsoft Word and adding references from your browser:\
+<https://www.zotero.org/support/word_processor_integration> <https://microsoftedge.microsoft.com/addons/detail/nmhdhpibnnopknkmonacoephklnflpho>\
+This allows adding references from your browser to the currently active Zotero library.
+
+## External communication
+
+iRISE communications will uphold the values of openness and integrity, and support reproducibility by committing to not sharing unsupported or misleading information. The iRISE [Dissemination, Exploitation, and Communication Plan](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Plan_Draft%201.2.docx?d=w7a63d0ea4a374c1bbe3b7fd98d0c7d2f&csf=1&web=1&e=jY54DT) outlines preliminary strategies for effectively sharing all expected iRISE project outcomes and maximising their impact. All external communication activities (e.g. events, presentations, and publications) will be collected via the [Dissemination Activity Record form](https://charitede.sharepoint.com/:x:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Activity%20Record.xlsx?d=w47a1cbfaa6c34ab5aee84a6dba643912&csf=1&web=1&e=85BMn0), which all members of the Consortium are asked to fill in continuously. All created output will be available under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.\
+Further detailed information is included in the [Dissemination, Exploitation, and Communication Plan](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Plan_Draft%201.2.docx?d=w7a63d0ea4a374c1bbe3b7fd98d0c7d2f&csf=1&web=1&e=jY54DT).
+
+### Funding Acknowledgement
+
+All iRISE communication materials as well as publications and other outputs must acknowledge EU support by displaying the [European flag (emblem) and funding statement](https://webgate.ec.europa.eu/funding-tenders-opportunities/pages/viewpage.action?pageId=1867972). Additionally, the following disclaimer must be included:\
+"iRISE receives funding from the European Union's Horizon Europe research and innovation programme under grant agreement No 101094853. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (ERA). Neither the European Union nor the ERA can be held responsible for them. iRISE also receives funding from the Swiss State Secretariat for Education, Research and Innovation (SERI): Direct Funding for Collaborative Projects as part of the transitional measures, and from UK Research and Innovation (UKRI).
+
+### Branding
+
+iRISE will maintain a consistent brand by using our logo, tagline, colour palette and fonts. Details of branding, including colours and fonts, can be found in the [Dissemination, Exploitation, and Communication Plan](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Plan_Draft%201.2.docx?d=w7a63d0ea4a374c1bbe3b7fd98d0c7d2f&csf=1&web=1&e=jY54DT). The iRISE logo (Figure 2) and its different formats and variants, including logos for each WP can be found in the [Logos](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/Branding%20and%20Website/iRISE%20Logos/Logos?csf=1&web=1&e=mh7pQM) Folder. The logo should be included on all presentation and external communication materials.
+
+![Figure 2: The iRISE logo and individual WP logos](images/Communication%20and%20reporting.png)
+
+### Templates for Deliverables and Presentations
+
+All templates are available in the [General/iRISE Dissemination_Communication_Templates](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates?csf=1&web=1&e=P8QVBa) folder.\
+[PowerPoint](https://charitede.sharepoint.com/:p:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/PPT%20Template.pptx?d=w197f096e83fa4576a6f82bdcd51489b2&csf=1&web=1&e=MREwQ4) and [Word Doc](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/DocTemplate.docx?d=wcb083ece13604791b342b0bb693fe067&csf=1&web=1&e=f61QPR) templates (including a [PowerPoint Theme](https://charitede.sharepoint.com/:u:/r/sites/iRISE/Shared%20Documents/Branding%20and%20Website/iRISE.thmx?csf=1&web=1&e=fyKrZL)) that use the iRISE colour palette, logo and include the required acknowledgment wording are available for presentations and external communication. All presentations in which iRISE results are disseminated must use these branded files (hence, not with, for example, partner institution templates). Other templates may only be used for presentations in which majority of the content is not related to iRISE. Even in these cases, slides with iRISE results must include the logo, and the final slide must acknowledge funding for iRISE as described above. For Deliverables, a [Deliverable Template](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared%20Documents/General/iRISE%20Dissemination_Communication_Templates/Templates/DeliverableTemplate.docx?d=w4ec2474158ab425f86655df0f923297d&csf=1&web=1&e=drgFm9) is available. Deliverables should not deviate from the structure and style of the template. If any team creates a new item, for example a Poster, and there was no previous template, they will coordinate with WP6 to ensure communication is always conducted respecting the identity of the project.
+
+### Website and Social Media Platforms
+
+The project website is available at <https://irise-project.eu/> and presents the project, the team and the SEAB. Additionally, it provides access to all project results and materials.\
+At present, iRISE uses two social media platforms:\
+1. **X** (formerly Twitter), the handle for the project is [\@iRISE_EU](https://www.bing.com/ck/a?!&&p=aae49b8cd9d6708eJmltdHM9MTY5OTQ4ODAwMCZpZ3VpZD0yZjIzNzQ2Yy1hNzdkLTZiMjEtMDUyYi02NzYzYTYyNTZhYjEmaW5zaWQ9NTE3Nw&ptn=3&hsh=3&fclid=2f23746c-a77d-6b21-052b-6763a6256ab1&psq=%40iRISE_EU+twitter&u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS9pUklTRV9FVQ&ntb=1)\
+2. **LinkedIn**, which can be found here: <https://www.linkedin.com/company/irise-eu/>\
+The social media accounts are managed by WP6. All iRISE consortium members are encouraged to interact with iRISE posts to help boost their reach. Consortium members are also encouraged to create content that can be shared via our social media channels. Please contact Gillian Currie ([gillian.currie\@ed.ac.uk](mailto:gillian.currie@ed.ac.uk){.email}) with relevant content.
+
+## Internal Reporting to Project Coordinator
+
+In addition to obligatory reporting to the EC (see [Reporting to the European Commission section](#reporting-to-the-european-commission)), each WP will be asked to provide a work plan every 6 months, and each beneficiary will be asked to provide a financial report every 6 months to the coordinator. All members of the Consortium shall further continuously [report any outreach activities at events (conferences, seminars, etc.) as well as publications and datasets related to the project via dedicated reporting forms](https://charitede.sharepoint.com/:x:/r/sites/iRISE/Shared%20Documents/WP6/iRISE%20Dissemination%20Activity%20Record.xlsx?d=w47a1cbfaa6c34ab5aee84a6dba643912&csf=1&web=1&e=9cfBaW), to facilitate periodic reporting about dissemination and communication activities.
+
+### 6-Month WP Plans
+
+All partners will be asked to contribute to WP plans which will be put together at the beginning of each 6-month period, that will be presented at alternating SC meetings. Each WP leader is responsible for collecting contributions from all task leaders and uploading the work plan into the corresponding file on the Teams Environment within 2 weeks after the beginning of each new period (M6, M12, M18, M24, M30). WP leads will be sent a template for completing this information in advance. All WP plans describe the work plan for the following 6-month separately for each task in the WP, including upcoming deliverables, task aims, timeline for each specific step, areas of priority, integration with other WPs as well as communication and publication strategy. The communication strategy describes when and how awareness among the Consortium and external stakeholders will be raised. The publication strategy lists the publications planned for each task, including contributing authors and a preliminary abstract. Reports will further contain a section reporting on achieved results in the previous period, including milestones and deliverables, as well as deviations from the previous plan.
+
+### Financial Reporting every 6 Months
+
+Every 6 months, the controlling team at the coordinating institution will further send out an excel-sheet for reporting on financial resources. All partners are asked to report their use of resources in the respective tab of this document.
+
+## Milestone Review Process
+
+The Milestone Review Process in the iRISE project ensures that milestones are completed and reviewed on time. The lead author, usually the task lead, is responsible for storing milestone reports in the appropriate Microsoft Teams/ SharePoint folder and notifying the Consortium via email by the deadline.\
+For milestones not documented by meeting minutes, a designated reviewer from the Consortium, who is not heavily involved in the milestone's creation, reviews the work. This reviewer provides comments or suggested changes using the track changes feature. The lead author must then address these comments promptly to finalise the milestone. The timeline for the review process is outlined in Table 1, with specific reviewer assignments detailed in Table 2. Table 1, which outlines the review process in relation to the due date of each milestone. This due date is always the last day of the month as specified in the Description of Action.\
+Consortium-wide meeting minutes, which serve as evidence for certain milestones, are circulated to the entire Consortium, following the procedures outlined in the Grant Agreement. This ensures that all members are kept informed and that the process remains transparent.\
+If a reviewer is no longer part of the project, their partner institution must reassign the task and propose the new reviewer to the project co-coordinators for approval. This structured process ensures that all milestones are reviewed thoroughly and completed on schedule, supporting the overall progress of the project.
+
+***Table 1**: Timeline for milestone review process*
+
+|                     |                                                                                                         |
+|---------------------|---------------------------------------------------------------------------------------------------------|
+| 14^th^ of the month | Milestone document is available for review in respective MS Teams/SharePoint folder                     |
+|                     | Task lead(s) send email to designated reviewer to inform them the doc is ready for review               |
+|                     | Corresponding WP mailing list is used to inform all WP members that they are able to review and comment |
+| 21^st^ of the month | Reviews are available in Teams doc                                                                      |
+| 28^th^ of the month | Lead author completes cycle of revisions                                                                |
+|                     | Whole consortium is able to comment                                                                     |
+| 2 days before       | WP lead(s) do final quality check                                                                       |
+| Due date            | Final version is available on MS Teams/SharePoint Milestone folder                                      |
+
+***Table 2**: Assigned reviewers and deadlines for milestones*
+
+|        |                                                                                |                 |                           |              |                            |                   |
+|--------|--------------------------------------------------------------------------------|-----------------|---------------------------|--------------|----------------------------|-------------------|
+| **ID** | **Milestone name**                                                             | **Lead**        | **Means of Verification** | **Due Date** | **Internal delivery date** | **Reviewer**      |
+| MS4    | Review protocol for iRISE-SOLES registered                                     | Hair (UEDIN)    | Made available on website | 30/11/2023   | 14/11/2023                 | \-                |
+| MS13   | Publish a Project Management Handbook                                          |  (MIK)          | internal report           | 30/11/2023   | 14/11/2023                 | \-                |
+| MS14   | Initial evaluation of gender balance complete                                  |  (MIK)          | internal report           | 29/02/2024   | 14/02/2024                 | \-                |
+| MS1    | Submission for publication of literature and scoping reviews                   | Heyard (UZH)    | internal report           | 31/08/2024   | 14/08/2024                 | Hooijmans (RUMC)  |
+| MS5    | Framework on how to determine the EDI impacts of interventions                 | Miller (MIK)    | internal report           | 31/08/2024   | 14/08/2024                 | Scherer (UH)      |
+| MS2    | Pre-registration of protocols for the different simulation studies in Task 1.3 | Heyard (UZH)    | Made available on website | 28/02/2025   | 14/02/2025                 | Smith (UEDIN)     |
+| MS6    | Results from the first Delphi consultation round                               | Marušić (MEFST) | internal report           | 28/02/2025   | 14/02/2025                 | Voelkl (UBERN)    |
+| MS7    | First focus group held                                                         | Marušić (MEFST) | minutes                   | 31/05/2025   | 14/05/2025                 | Rackoll (Charité) |
+| MS3    | Pre-registration of predictions for Task 1.5a                                  | Heyard (UZH)    | Made available on website | 31/08/2025   | 14/08/2025                 | Haven (TU)        |
+| MS10   | Revised DMP                                                                    | Currie (UEDIN)  | Made available on website | 31/08/2025   | 14/08/2025                 | Maniadis (UCY)    |
+| MS8    | Synthesis event report completed                                               |  Wever (RUMC)   | internal report           | 30/06/2026   | 14/06/2026                 | Gopalakrishna ()  |
