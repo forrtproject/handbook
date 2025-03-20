@@ -1,5 +1,5 @@
 delete_merged_file: true
-book_filename: iRISE Project Management Handbook
+book_filename: FORRT Handbook
 output_dir: "docs"
 language:
   ui:
