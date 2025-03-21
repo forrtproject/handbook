@@ -1,6 +1,8 @@
+
 body {
   font-family: 'Bierstadt', sans-serif;
   font-size: 11px;
+  background-color:#fefdf6 !important;
 }
 p.caption {
   color: #777;
@@ -16,6 +18,8 @@ pre {
 pre code {
   white-space: inherit;
 }
-h1, h2, h3 {
-  color: #17455E;
+
+
+a {
+  color: #8e0000;
 }
