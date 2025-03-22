@@ -8,7 +8,7 @@ output:
 
 ```{r bookdown-meta, echo = FALSE, include=FALSE}
 library(metathis)
-if (is_html) {
+if (knitr::is_html_output()) {
   meta() |>
     meta_general(robots = "noindex, nofollow")    
 }
