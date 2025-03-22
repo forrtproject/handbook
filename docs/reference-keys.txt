@@ -1,7 +1,7 @@
 project-management-handbook
 history-of-changes
 list-of-abbreviations
-list-of-linked-irise-resources
+list-of-linked-forrt-resources
 introduction
 background
 objectives
@@ -28,6 +28,7 @@ website-and-social-media-platforms
 internal-reporting-to-project-coordinator
 month-wp-plans
 financial-reporting-every-6-months
+milestone-review-process
 data-and-file-management
 file-storage-for-internal-collaboration
 data-management-plan
@@ -59,4 +60,3 @@ key-performance-indicators-for-impact
 references-and-further-reading
 appendix-1-ethical-self-assessment-and-ethical-risks-identification
 ethics-self-assessment
-milestone-review-process
