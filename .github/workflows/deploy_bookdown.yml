@@ -8,7 +8,7 @@ name: renderbook
 
 jobs:
   bookdown:
-    if: contains(github.event.head_commit.message, '[deploy]')
+    if: contains(github.event.head_commit.message, '[render]')
     name: Render-Book
     runs-on: ubuntu-latest
     steps:
@@ -26,9 +26,3 @@ jobs:
           git add -f docs/
           git commit -m 'Book built' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        env:
-           token: ${{ secrets.GITHUB_TOKEN }}
-           BUILD_DIR: docs/
-
