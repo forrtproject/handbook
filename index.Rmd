@@ -6,6 +6,14 @@ output:
     css: "style1.css"
 ---
 
+```{r bookdown-meta, echo = FALSE, include=FALSE}
+library(metathis)
+if (is_html) {
+  meta() |>
+    meta_general(robots = "noindex, nofollow")    
+}
+```
+
 # **Project Management Handbook**
 
 ## History of Changes
