@@ -8,7 +8,7 @@ name: renderbook
 
 jobs:
   bookdown:
-    if: contains(github.event.head_commit.message, '[render]')
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[render]')
     name: Render-Book
     runs-on: ubuntu-latest
     steps:
