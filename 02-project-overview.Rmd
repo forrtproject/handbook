@@ -1,20 +1,76 @@
 # **Project Overview**
 
-iRISE consists of 15 partners, from nine countries and includes 37 members. The iRISE partners are Universitaetsmedizin Berlin (CHARITE), Sveuciliste U Splitu Medicinski Fakultet (MEFST), Karolinska Institutet (KI), Stichting Radboud Universitair Medisch Centrum (RUMC), Eatris Eric (EATRIS), Helsingin Yliopisto (UH), Miller International Knowledge Sl (MIK), University Of Cyprus (UCY), Guarantors Of Eqipd E.V. (GOEQIPD),	Tilburg University (TiU), Universiteit Maastricht (UMAAS), Universitaet Zurich (UZH), Universitaet Bern (UBERN), Heriot Watt University (HW), The University Of Edinburgh (UEDIN).  
-iRISE receives funding from the European Union's Horizon Europe research and innovation programme under grant agreement No 101094853. The project also receives funding from UK Research and Innovation (UKRI) and the Swiss State Secretariat for Education, Research and Innovation (SERI): Direct Funding for Collaborative Projects as part of the transitional measures.
+FORRT is a grassroots, community-led initiative focused on integrating open and reproducible scholarship into higher education. It consists of a diverse network of educators, researchers, students, and practitioners from around the globe who contribute voluntarily to FORRT’s mission. The initiative is coordinated through an informal yet organized structure of teams, each working on specific projects or thematic areas aligned with FORRT’s goals.
 
-## Horizon Europe Framework
-Horizon Europe is the European Union's framework program for research and innovation. It aims to address societal challenges, promote scientific excellence, and drive economic growth and competitiveness in Europe. The program supports research and innovation activities across various fields, including but not limited to health, environment, digital technologies, and social sciences. Horizon Europe's objectives include:
+While FORRT has begun employing a small number of freelancers for specific tasks, the overwhelming majority of our work is performed by volunteers who contribute as time and capacity allow. This unique structure enables a high degree of flexibility, creativity, and inclusion, though it also places a premium on careful communication, transparent planning, and respectful coordination of expectations and commitments.
 
-*	**Excellence in Research**: Enhancing Europe's research and innovation capacities by fostering scientific excellence and breakthrough discoveries.
-*	**Global Challenges and Industrial Competitiveness**: Addressing pressing global challenges, such as climate change, health, and digitalization, while boosting the competitiveness of European industries.
-*	**Open Science and Open Innovation**: Promoting open access to research results, data, and publications to accelerate knowledge sharing and collaboration.
-*	**Innovative Partnerships**: Establishing partnerships between academia, industry, and other stakeholders to drive innovation and address real-world challenges.
+FORRT operates as a distributed organization under the umbrella of FORRT e.V., a nonprofit association registered in Germany. This legal entity can support fundraising and contracting when necessary, but most day-to-day activities take place in teams coordinated via Slack, shared documents, and collaborative project tools.
 
-## Grant Agreement
-Projects funded under Horizon Europe are governed by grant agreements between the European Commission and the project consortium. These agreements outline the terms and conditions of the funding and the responsibilities of all parties involved. A copy of the [iRISE Grant Agreement](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=cuFpdE) can be found in the iRISE SharePoint. 
+## Key Areas of Activity
 
-## Horizon Europe Call 
-iRISE is funded under Horizon Europe Framework Programme (HORIZON):
-Call: European Research Area HORIZON-WIDER A-2022-ERA-01) 
-TOPIC ID: HORIZON-WIDERA-2022-ERA-01-41; [Increasing the reproducibility of scientific results](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-widera-2022-era-01-41) 
+### Curriculum Hub
+
+The **Curriculum Hub** aims to empower educators and learners worldwide to engage with, understand, and implement Open Science principles and practices. It includes:
+
+- Thematic clusters covering key areas of open and reproducible research
+- Glossary entries with clear and accessible definitions
+- Curated resources for educators and learners
+- Summaries of key readings
+- Pedagogical and didactic lesson plans
+- Slide decks with lecture notes
+- Example syllabi and course materials
+- Gamified learning tools and activities
+
+These outputs are created and maintained collaboratively by FORRT volunteers and are openly licensed to allow reuse and adaptation. The work is organized through relevant FORRT teams (e.g., Team Glossary, Team Lesson Plans, Team Summaries, Team Pedagogies, Team Website).
+
+### Replication Hub
+
+The **Replication Hub** promotes reproducible science by supporting high-quality replication and reproduction projects. It includes:
+
+- Annual Replication Workshops
+- Mentorship for first-time replicators
+- Open manuscript templates (StaRT) and featured reports
+- Collaboration with the Institute for Replication and replication journal alliances
+- A semi-automated replication database (FReD)
+- A Replication Impact Dashboard
+- A community-driven collection of replication reversals
+- Educational plug-ins and tools for use in courses
+
+This initiative is coordinated with international partners and is designed to serve both as a community of practice and a resource repository.
+
+## Types of Contributions
+
+Contributors to FORRT engage in a wide variety of activities, including:
+
+- Developing and curating educational resources
+- Leading or supporting specific teams or projects
+- Reviewing and editing documents and lesson plans
+- Creating visual or technical assets (e.g., slide decks, websites)
+- Organizing events and outreach efforts
+- Mentoring others or receiving mentorship
+- Sharing feedback and helping improve processes
+
+As a volunteer initiative, FORRT recognizes that capacity varies widely. Contributors are encouraged to be transparent about their availability and to engage at levels that are sustainable for them.
+
+## Modes of Support
+
+Although most of FORRT's work is volunteer-led, we occasionally support contributors financially through:
+
+- Freelance contracts for specific technical or editorial tasks
+- Stipends for work packages where funding is secured (e.g., through grants)
+- Institutional partnerships that fund in-kind or financial contributions
+
+Paid and volunteer work are both essential to FORRT's functioning. Our internal policies promote transparency and fairness in allocating any paid roles, while safeguarding the community ethos that underpins the initiative.
+
+## Strategic Priorities
+
+FORRT’s medium-term priorities include:
+
+- Professionalizing internal project management while remaining flexible and community-centered
+- Securing funding to ensure sustainability and equitable participation
+- Expanding global inclusion by translating materials and adapting them to varied contexts
+- Increasing institutional recognition of open and reproducible scholarship in teaching
+
+These priorities are advanced through active collaboration between FORRT teams and guided by the Steering Council and the wider community.
+
+[INSERT LINK TO CURRENT PROJECT LIST OR TEAM STRUCTURE DOCUMENT HERE]

@@ -1,12 +1,91 @@
-# **Data and file management**    
-## File Storage for internal collaboration  
-As described above, all documents must be stored and shared in the corresponding WP section of iRISE SharePoint. To ensure version control and facilitate collaborative writing, file links should be used for sharing documents instead of downloaded versions. Synchronizing the SharePoint to your computer eases access.  
+# **Data and File Management**
 
-## Data management plan  
+FORRT relies on open, accessible, and well-organized data and documentation to support collaboration across its distributed, volunteer-based teams. This chapter outlines best practices for managing files, documentation, and any data generated through FORRT projects.
 
-The first version of the DMP will be published through DMP online before month 6 [link to follow]. An internal version of the DMP will be deposited on iRISE Microsoft Teams in the section for WP 6. The DMP is populated with the task-specific information collected in the [DMP table on the iRISE teams](https://charitede.sharepoint.com/:x:/r/sites/iRISE/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B8fc7f6ef-0e91-450d-b04b-792fd74e205f%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1). The plan will be regularly updated. Every six months (starting in September 2024), the core DMP team (Heyard and Currie) will meet with relevant iRISE partners to decide whether updates to the DMP are required. Prior to this meeting, task leads will be sent a survey to collect information on whether the management plan for the data outputs they are responsible for has changed. All task leads must fill in the survey, even if nothing has changed. WP leads are requested to contact the DMP core team via email if major updates to the DMP are required (before the next scheduled meeting).  
+## File Storage and Collaboration
 
-## Minimal metadata standards  
+All files should be stored in centralized, team-specific folders using approved cloud-based services. Commonly used platforms include:
+- Google Drive (for editable documents, slides, planning spreadsheets)
+- OSF (for archival storage, public access, and preprints)
+- GitHub (for websites, lesson plans, or code)
+
+### Principles
+- Use **shared team folders**, not personal accounts.
+- Share links instead of downloading/uploading versions to avoid version conflicts.
+- Name files and folders clearly (e.g., “FORRT_ReplicationHub_WorkshopPlanning_2025-04”).
+- Keep public and private files clearly separated and labeled.
+
+[INSERT LINK TO CURRENT SHARED FOLDER DIRECTORY or ACCESS REQUEST INFO]
+
+[OPEN QUESTION: Should we designate a lightweight “documentation steward” role in each team?]
+
+## Naming and Version Control
+
+To make files easier to find and track:
+- Use clear, descriptive titles with project names and dates.
+- Add version numbers or initials for clarity when appropriate.
+- Use platform versioning (e.g., Google Drive revision history, GitHub commits) rather than creating duplicate copies.
+
+Templates for file names and folders are available here:  
+[INSERT LINK TO NAMING GUIDELINES OR TEMPLATE]
+
+## Data Management for Projects
+
+Most FORRT work is educational or resource-based and does not involve sensitive data. However, when data is collected (e.g., through surveys, interviews, analytics), teams must ensure ethical handling and documentation.
+
+### What to Consider
+- What data is being collected (e.g., feedback, demographic info)?
+- How will it be stored securely?
+- Who has access?
+- Will it be shared, published, or deleted?
+
+A simple **Data Management Plan (DMP)** template is available and should be used for any project involving participant or user data. [INSERT LINK TO DMP TEMPLATE]
+
+### Roles and Responsibilities
+- Team/project leads are responsible for coordinating data handling practices.
+- If unsure, consult Team Ethics or the Steering Council for guidance.
+
+[OPEN QUESTION: Should we create a central log or register of ongoing data-collecting projects across FORRT?]
+
+## Open Access and Licensing
+
+All final outputs (documents, slides, lesson plans, tools) should be:
+- Shared publicly via OSF, GitHub, or the FORRT website
+- Accompanied by a clear usage license (typically CC BY-NC-SA 4.0)
+
+Where possible, include:
+- A README file explaining what the resource is, how it was created, and how to use it
+- Metadata (title, creators, keywords, version, date, link to related projects)
+
+For code and software, use an OSI-approved open source license (e.g., MIT, GPL) and host on GitHub or similar.
+
+[INSERT LINK TO LICENSEING GUIDANCE OR METADATA CHECKLIST]
+
+## Backups and Archiving
+
+Teams are encouraged to:
+- Regularly review shared folders to clean up outdated drafts or duplicates
+- Back up critical files in at least one additional location (e.g., OSF)
+
+[OPEN QUESTION: Should we implement a quarterly “digital housekeeping” check-in with each team?]
+
+## Summary
+
+| Area                     | Practice / Tool                                | Responsible Party      |
+|--------------------------|------------------------------------------------|------------------------|
+| File storage             | Google Drive, OSF, GitHub                      | All contributors       |
+| Naming/version control   | Clear titles + platform versioning             | All contributors       |
+| Data collection projects | Fill out simple DMP                            | Project/team leads     |
+| Licensing and access     | CC BY-NC-SA for docs, OSI license for code     | Team leads             |
+| Archiving                | Publish to OSF, tag final versions             | Team leads or stewards |
+
+[INSERT LINKS: DMP template, license guidance, metadata checklist (could be derived from the below), shared folders]
+
+---
+
+## iRise Minimal metadata standards 
+
+*If we want to retain / adopt those, they should probably go into a separate file?*
 
 All data outputs will be complemented with metadata, as outlined in the DMP. The following elements are required:  
 

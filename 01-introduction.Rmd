@@ -1,51 +1,41 @@
-# **Introduction**
+# Chapter 1: Introduction
 
-Our vision, in iRISE, is to deepen understanding of reproducibility drivers, evaluate their effectiveness and provide concrete solutions to enhance scientific evidence. We will foster a research culture of openness, integrity, and trustworthiness to advance reproducibility and knowledge.
+## Vision and Mission
+
+FORRT envisions a research and educational culture defined by openness, integrity, inclusivity, and trust. Our mission is to empower educators and learners worldwide by integrating open and reproducible practices into research training. Through community‐driven pedagogical reform, we aim to advance research transparency, reproducibility, rigor, and ethics in a manner that is accessible and equitable to all. [INSERT FORRT LOGO/BRANDING AS NEEDED]
 
 ## Background
 
-Reproducibility is a complex and multifaceted phenomenon that encompasses a continuum of practices related to the reproduction and replication of scientific results. iRISE takes an integrated approach to understanding, investigating and guiding strategies to address irreproducibility.
+In recent years, the importance of open and reproducible practices in research has become increasingly clear. While many initiatives focus on research integrity, far fewer address the essential role of education in embedding these practices into daily academic work. FORRT was established as a grassroots, volunteer‐driven community dedicated to transforming science education by integrating open scholarship into teaching and mentoring. Our approach emphasizes practical engagement, collaborative resource development, and the promotion of scholarly openness as a social justice imperative.
+
+*Note: This handbook was developed in response to the evolving landscape of open science education and is designed to serve both internal project leads and external collaborators. It is built on the [iRise project management handbook](https://camaradesuk.github.io/irise_pm_handbook/), for which we are very grateful.*
 
 ## Objectives
 
-Our objectives are to:
+The primary objectives of FORRT are to:
 
-1.  develop working definitions and a general framework for diagnosing and addressing reproducibility problems, define costs, benefits and opportunities, and assess the utility of theoretical evidence in forecasting the success of interventions (WP1),\
-2.  perform scoping and systematic reviews to identify and evaluate existing interventions to improve reproducibility (WP2),\
-3.  explore the interface between reproducibility and research culture, and in particular considerations and mainstreaming of equity, diversity, and inclusion (EDI) (WP3),\
-4.  consult and engage key stakeholder groups in prioritising practices and practical tool development for adoption to increase reproducibility (WP4),\
-5.  test efficacy and feasibility of specific interventions to increase reproducibility (WP5),\
-6.  curate and integrate these different types of evidence to increase reproducibility for dissemination and implementation (WP6) and\
-7.  effectively project manage iRISE to achieve our objectives in a timely manner within budget (WP7).
+1. **Develop a Shared Framework:** Establish clear definitions and guidelines for integrating open science practices into educational settings.
+2. **Curate High-Quality Resources:** Assemble and evaluate pedagogical tools (e.g., lesson plans, summaries, glossaries) that support open and reproducible research training.
+3. **Embed Diversity and Inclusivity:** Ensure that our initiatives actively promote equity and provide opportunities for underrepresented groups.
+4. **Engage the Community:** Involve educators, students, and stakeholders in a collaborative process to co-create and continuously refine our tools and practices.
+5. **Pilot and Implement Initiatives:** Launch programs such as mentorship schemes, open office hours, and collaborative workshops that demonstrate the practical benefits of open scholarship.
+6. **Disseminate Openly:** Share our resources and outcomes through open-access platforms and strategic partnerships to contribute to the global conversation on open science.
 
-## Importance of effective project management
+## Project Management Philosophy
 
-iRISE involves multiple partners, disciplines and objectives. We need to coordinate and manage our interactions to ensure:
+Effective project management in FORRT is not defined by strict timelines or budgets alone—it is the cohesive force that unites our community and ensures that our collective efforts remain aligned with our mission. Our approach prioritizes flexibility, proactive communication, and continuous improvement. By fostering an environment where ideas are freely shared and every contribution is recognized, we empower volunteers to bring their unique strengths to our projects.
 
-1.  We progress in a timely manner, meeting milestones and deliverables\
-2.  We facilitate effective communication and engagement within and outside the consortium\
-3.  Our work is rigorous, maintaining high-quality outputs and conduct\
-4.  We foster collaboration to enable us to work together smoothly despite geographical and disciplinary differences\
-5.  We promote accountability by clearly defining roles, responsibilities and tasks. This will include thorough documentation which is essential for reporting and future reference
+## Terminology and Audience
 
-Project management is the backbone that will hold us together. It ensures that the diverse elements of the project work harmoniously toward achieving our objectives, maximising impact, and delivering outcomes on time and within budget.
+In this handbook, traditional consortium terminology has been replaced with language that reflects our community-driven model. All team members—whether internal project leads or external collaborators—are integral parts of the FORRT community. This document is designed to guide everyone in managing projects efficiently while upholding FORRT’s core values.
 
-## Purpose and structure of this handbook
+## Handbook Purpose
 
-This handbook provides practical insights and step-by-step guidance for the Project Management Office (PMO) and consortium members to ensure the successful execution of iRISE. All partners of the consortium should refer to this handbook throughout the duration of the project.\
-The handbook is designed to align with EU regulations, guidelines, and best practices relevant to project management and is structured as follows:
+This handbook is a living document that provides practical guidance on managing FORRT projects. It outlines procedures, best practices, and strategic approaches to ensure that all initiatives remain aligned with our mission and values. The handbook serves as a resource for:
 
--   [Project Overview](#project-overview)\
--   [Consortium Structure](#consortium-structure)\
--   [Communication and Reporting](#communication-and-reporting)\
--   [Data and File Management](#data-and-file-management)\
--   [Reporting to the European Commission](#reporting-to-the-european-commission)\
--   [Deliverable Management and Quality Assurance](#deliverable-management-and-quality-assurance)\
--   [Overview of Key Dates](#overview-of-key-dates)\
--   [Intellectual Property and Dissemination](#intellectual-property-and-dissemination)\
--   [Ethics and Compliance](#ethics-and-compliance)\
--   [Appendices](#appendix-1-ethical-self-assessment-and-ethical-risks-identification)
+- **Internal Project Leads:** To streamline planning, coordination, and quality assurance across our diverse teams.
+- **External Collaborators:** To understand our approach, engage effectively with our community, and contribute to our shared objectives.
 
-The content is intended to help members and the project adhere to EU requirements and maximise our chances of executing a successful project.\
-The handbook will be stored on the [iRISE SharePoint](https://charitede.sharepoint.com/sites/iRISE/Shared%20Documents/Forms/AllItems.aspx) and will act as a living document, updated periodically to reflect any required changes. References to other documents are via file links to the iRISE SharePoint to ensure that information is up-to-date and a list of the documents linked is provided at the end of the book.\
-Please contact Sarah McCann ([sarah.mccann\@bih-charite.de](mailto:sarah.mccann@bih-charite.de){.email}), Emily Sena ([emily.sena\@ed.ac.uk](mailto:emily.sena@ed.ac.uk){.email}) or Rebecca Fischer ([rebecca.fischer\@uni-jena.de](mailto:rebecca.fischer@uni-jena.de){.email}) if you have any enquires or need support related to the handbook.
+For further details on specific procedures and additional resources, please refer to the corresponding chapters in this handbook or visit [GOOGLE DRIVE OVERVIEW?].
+
+[INSERT ADDITIONAL CONTACTS OR LINKS AS REQUIRED - BUT NO NEED TO REPEAT THE TOC]

@@ -1,4 +1,7 @@
 # **Reporting to the European Commission**  
+
+[NOT TOUCHED DURING AUTOMATIC UPDATING - NOT DIRECTLY RELEVANT, THOUGH WE COULD HAVE IMPACT TRACKING / TENZING SECTION]
+
 Over the course of the project two periodic reports (the latter of which is the final report) must be submitted to the European Commission. They cover the following project periods:  
 
 * Period 1: M1-M18 = 1 September 2023 – 28 February 2025  

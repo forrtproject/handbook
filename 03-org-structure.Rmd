@@ -1,0 +1,91 @@
+# **Organizational Structure and Roles**
+
+FORRT operates as a grassroots, volunteer-based initiative coordinated by a distributed leadership and supported by a flexible, team-based structure. While we are not a formal consortium, our community includes a broad range of contributors and collaborators who work together toward shared goals. Our governance approach is built around openness, inclusivity, and decentralized coordination, allowing for both flexibility and accountability.
+
+## Core Coordination Team
+
+FORRT’s overall direction and coordination are supported by a core group of volunteer leaders, including founding members and elected coordinators. These individuals help maintain the coherence of FORRT’s vision, align projects with strategic goals, and serve as stewards of FORRT’s values.
+
+The core coordination team is responsible for:
+- Facilitating cross-team communication
+- Setting internal timelines and shared priorities
+- Supporting project leads in resolving challenges
+- Representing FORRT in external collaborations and partnerships
+
+[INSERT CURRENT LIST OF CORE COORDINATORS AND THEIR ROLES]
+
+## Steering Council
+
+The **Steering Council** includes:
+- Core coordinators
+- Leads from each active team or initiative
+- [Optional: rotating community representatives or advisory board members?]
+
+It provides strategic oversight, reviews ongoing work, and offers guidance to project leads. The Steering Council meets at least quarterly and plays a central role in identifying priorities, aligning new initiatives with FORRT’s mission, and mediating any disputes.
+
+[OPEN QUESTION: Should we define fixed terms or a rotating structure for Steering Council membership?]
+
+## Project and Team Leads
+
+FORRT’s day-to-day work is organized through teams that focus on specific areas (e.g., Team Ethics, Team Glossary, Team Lesson Plans). Each team typically has one or more **Team Leads** who:
+- Facilitate planning and internal communication
+- Coordinate contributions from volunteers
+- Represent the team in Steering Council discussions
+- Track progress and update relevant documentation
+
+Team leads may emerge organically or be selected through consensus. We aim to avoid gatekeeping and encourage distributed responsibility while ensuring that someone is accountable for keeping momentum and supporting contributors.
+
+[INSERT LINK TO CURRENT TEAM OVERVIEW DOCUMENT]
+
+## Operations and Project Management
+
+Because FORRT relies heavily on volunteer labor, we balance structure with flexibility. Rather than a central Project Management Office, operations support is provided by designated roles such as:
+- **Operations Coordinator** or Team Cohesion lead
+- [Optional: Admin support or paid freelance project managers for funded work]
+
+Responsibilities may include:
+- Maintaining shared documentation and templates
+- Supporting onboarding of new project leads
+- Overseeing deliverable timelines and shared calendars
+- Helping coordinate inter-team collaboration
+
+[OPEN QUESTION: What roles or tools would help us maintain cohesion across teams without centralizing authority? Should we invest in shared onboarding or PM toolkits for new project leads?]
+
+## Freelancers and Paid Support
+
+While FORRT is primarily volunteer-driven, we sometimes employ freelancers for specific tasks (e.g., development, editing, accessibility audits). These contributors are typically brought on through transparent, needs-based decisions by the core coordination team or relevant team leads.
+
+We strive to:
+- Maintain parity and transparency between paid and unpaid contributions
+- Clearly communicate expectations and deliverables
+- Recognize all forms of contribution equally
+
+[INSERT LINK TO CURRENT POLICY OR DRAFT ON PAID ENGAGEMENTS IF AVAILABLE]
+
+## External Collaborators
+
+External contributors (e.g., co-authors, advisors, partner organizations) are welcomed into FORRT projects through informal or formal collaboration agreements, depending on the scope. Project leads are responsible for:
+- Clarifying expectations and timelines
+- Ensuring collaborators align with FORRT’s values
+- Managing any authorship or data-sharing concerns upfront
+
+[OPEN QUESTION: Should we develop a lightweight collaboration MoU or checklist for external contributors?]
+
+## Governance Values
+
+Our governance structure is guided by:
+- **Transparency:** All decisions, changes, and updates should be shared openly within relevant Slack channels or documents.
+- **Flexibility:** Volunteers engage at levels that match their capacity, and roles evolve over time.
+- **Inclusion:** All members are encouraged to lead, suggest changes, and contribute meaningfully to FORRT's direction.
+
+[INSERT LINK TO CODE OF CONDUCT AND VALUES STATEMENT]
+
+## Decision-Making
+
+Major decisions (e.g., starting or sunsetting a project, adopting new policies) are made via consensus in the Steering Council or community-wide consultation. Smaller, team-level decisions are made by team leads in coordination with active members.
+
+[OPEN QUESTION: Should we formalize decision-making thresholds or voting procedures for certain strategic decisions?]
+
+---
+
+[INSERT DIAGRAM OF TEAM-BASED STRUCTURE IF AVAILABLE]

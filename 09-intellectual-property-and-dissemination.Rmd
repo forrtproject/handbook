@@ -1,12 +1,83 @@
-# **Intellectual Property and Dissemination**  
+# **Intellectual Property and Dissemination**
+
 ## Intellectual Property
 
-All information on intellectual property rights and ownership of results are specified in the [iRISE Grant Agreement](https://charitede.sharepoint.com/:f:/r/sites/iRISE/Shared Documents/General/Grant Agreement/AMD-101094853-4_Nov2023?csf=1&web=1&e=cuFpdE) under Article 16.  
+[THIS NEEDS DISCUSSION! THIS IS THE MOST RESTRICTIVE VERSION - CC BY 4.0 IS MORE IN LINE WITH MAXIMUM OPENNESS]
 
-## Dissemination Strategies  
+As an open, community-driven initiative, FORRT is committed to the principles of open knowledge sharing. Unless otherwise stated, all content developed under FORRT projects is made openly available under a Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
-The iRISE [Dissemination, Exploitation, and Communication Plan](https://charitede.sharepoint.com/:w:/r/sites/iRISE/Shared Documents/WP6/iRISE Dissemination Plan_Draft 1.2.docx?d=w7a63d0ea4a374c1bbe3b7fd98d0c7d2f&csf=1&web=1&e=jY54DT) outlines our preliminary strategies for effectively disseminating all expected iRISE project outcomes and maximising their impact. Additionally, we define our target audiences and how the messages will reach them. We will also describe how we will monitor engagement with iRISE outputs and the effectiveness of our dissemination, exploitation and communication activities.
+This means:
+- Anyone can use, adapt, and redistribute FORRT materials non-commercially.
+- Derivative works must credit the original creators and be shared under the same license.
+- Commercial use requires explicit permission from the original creators.
 
-As part of the strategies for disseminating iRISE project results, publications, and public engagement activities, we have developed guidelines and principles for the publication of research outcomes generated within iRISE. The latest version of our publication policy can be found here: [Publication policy](https://charitede.sharepoint.com/:w:/r/sites/iRISE/_layouts/15/Doc.aspx?sourcedoc=%7BD202FA5E-EDE0-432A-84C6-96659F1B420E%7D&file=iRISE_Publication_Policy_2023-09-07_draft_v1.docx&action=default&mobileredirect=true).  
+## Contributor Rights
 
-The publication policy aims to ensure transparency, fairness, and proper acknowledgment of contributions while upholding the highest standards of research integrity and publication ethics. In addition, the Dissemination and Commination Plan and DMP will provide further details on the dissemination strategies and detailed activities.  
+Contributors retain copyright to their individual contributions. By participating in a FORRT project, contributors agree to:
+- Share their work under an open license
+- Be credited appropriately in outputs (see section on authorship and attribution below)
+- Allow FORRT to disseminate and adapt the work in line with its mission
+
+In case of collaborative or multi-authored work, the team lead(s) coordinate final authorship and licensing decisions in alignment with community norms and with support from the Steering Council, if needed.
+
+[OPEN QUESTION: Should we create a lightweight contributor agreement or GitHub-based licensing notice for contributors to accept when submitting?]
+
+## Licensing for Code and Tools
+
+FORRT projects involving code (e.g., data tools, websites, automation scripts) should use an Open Source Initiative–approved license such as:
+- MIT License
+- GNU GPL v3
+- Apache License 2.0
+
+Each GitHub repository should include a `LICENSE` file and a README describing how the tool or codebase is meant to be used and cited.
+
+[INSERT LINK TO LICENSE TEMPLATE REPO OR LICENSE CHOOSER]
+
+## Dissemination Strategy
+
+Dissemination in FORRT is guided by our goals of openness, visibility, accessibility, and collaboration. We prioritize making all outputs easy to find, share, and reuse.
+
+### Main Dissemination Channels
+- **FORRT Website** — [INSERT LINK] — the primary hub for public materials
+- **OSF** — for archiving, versioning, and licensing teaching materials, tools, and reports
+- **GitHub** — for collaboratively maintained resources, code, and lesson plans
+- **Social Media** — coordinated by the Outreach Team (e.g., Twitter, Mastodon, LinkedIn)
+- **Newsletter** — shared regularly to FORRT subscribers highlighting news, outputs, and community updates
+- **Workshops and Events** — including conference presentations, webinars, and co-organized trainings
+
+### Supporting Teams
+- **Team Outreach** — coordinates dissemination across platforms
+- **Team Website** — helps publish content and manage web presence
+- **Team Impact / Team Pedagogies** — contribute to public engagement via papers, materials, and events
+
+[OPEN QUESTION: Should we develop a dissemination planning checklist for project leads (e.g., “Have you submitted to OSF? Tweeted it? Added a summary to the website?”)?]
+
+## Publication and Attribution Guidelines
+
+When preparing written outputs (e.g., preprints, reports, guides), FORRT encourages teams to:
+- Use the **CRediT taxonomy** to describe contributor roles
+- Share drafts internally for feedback and transparency
+- Publish under open-access models whenever possible
+- Include a DOI, open license, and link to any supporting materials
+
+FORRT recognizes all forms of contribution (technical, editorial, design, writing, leadership) and encourages equitable practices in authorship and visibility.
+
+[INSERT LINK TO FORRT AUTHORSHIP & CONTRIBUTOR GUIDELINES, if available]
+
+## Metrics and Engagement
+
+We encourage teams to track and reflect on engagement with their outputs. This may include:
+- OSF or GitHub download and fork counts
+- Website page views
+- Social media analytics (via Outreach Team)
+- Feedback collected from users or workshop participants
+
+These metrics are useful not only for reporting and improving future outputs, but also for recognizing contributors’ impact.
+
+[OPEN QUESTION: Should we build a lightweight “impact tracker” spreadsheet or dashboard across teams?]
+
+---
+
+All FORRT outputs are part of our broader mission to foster principled, inclusive, and community-driven open education. Our dissemination and licensing practices aim to reflect those values while providing contributors with recognition and users with flexibility.
+
+[INSERT LINKS: License guide, contributor templates, publication checklist]

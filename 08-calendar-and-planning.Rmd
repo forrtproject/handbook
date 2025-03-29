@@ -1,0 +1,73 @@
+# **Overview of Key Dates**
+
+FORRT’s decentralized and volunteer-based structure benefits from having a shared overview of important dates, deadlines, and milestones. While projects are generally not bound by external funders, coordinating timelines helps us support one another and maintain momentum across initiatives.
+
+## Community Calendar
+
+A shared **Community Calendar** is maintained to provide visibility into:
+- Major project deliverable deadlines
+- Community-wide events (e.g., workshops, hackathons, onboarding calls)
+- Leadership and Steering Council meetings
+- Proposal submission dates for grants or partnerships
+- External events relevant to FORRT's mission
+
+[INSERT LINK TO CALENDAR — e.g., Google Calendar or Notion Database]
+
+### Who Updates It?
+
+- **Team Leads** are encouraged to add relevant internal and external deadlines for their team’s initiatives.
+- The **Operations Coordinator** (or equivalent) supports calendar maintenance and ensures recurring meetings are visible.
+
+[OPEN QUESTION: Should we introduce reminders or Slack sync with key calendar dates?]
+
+## Planning Key Dates
+
+Although projects may operate at different paces, all teams are encouraged to:
+- Set internal timelines for major outputs at project kickoff
+- Share target milestones with the wider FORRT community via Slack (#project-updates)
+- Revisit and update plans quarterly or after major deliverables
+
+To support this, FORRT offers a simple [Timeline Planning Template – INSERT LINK] that teams can adapt for their needs.
+
+### Example Milestone Types
+
+| Milestone Type           | Example                                              |
+|--------------------------|------------------------------------------------------|
+| Project launch           | Kickoff of a new team or initiative                  |
+| Draft completion         | Initial draft of lesson plans, tool, or article      |
+| Internal review window   | Period for peer review and revisions                 |
+| Public release           | OSF/GitHub upload, website announcement              |
+| Outreach event           | Webinar, workshop, or community showcase             |
+| Strategic decision point | Steering Council discussion of next-phase goals     |
+
+[OPEN QUESTION: Should we keep a shared FORRT "project timeline board" summarizing key dates across teams? What tools would work best (e.g., Notion, Trello, GitHub Projects)?]
+
+## Coordination Across Teams
+
+Because some contributors are involved in multiple initiatives, project leads should coordinate:
+- Around high-demand periods (e.g., conference deadlines, holidays)
+- Before cross-cutting meetings or public launches
+- When seeking reviewers or design support across teams
+
+We encourage teams to signal important dates early in Slack or in the calendar to help others plan capacity.
+
+## Quarterly Planning
+
+Each quarter, the Steering Council and team leads may collectively review:
+- What's launching
+- What’s wrapping up
+- What teams need help with
+- Opportunities for collaboration or showcasing work
+
+This supports strategic alignment without overburdening contributors.
+
+## Summary
+
+| Tool / Practice                     | Purpose                                         | Maintained By                  |
+|------------------------------------|-------------------------------------------------|--------------------------------|
+| Community Calendar                 | Centralized view of FORRT events/milestones     | Operations Coordinator + Teams |
+| Slack #project-updates channel     | Informal tracking and updates                   | Project and team leads         |
+| Timeline Planning Template         | Internal team planning support                  | Each team                      |
+| Quarterly Coordination Meetings    | Cross-team visibility and support               | Steering Council               |
+
+[INSERT LINKS: Community calendar, planning template, shared event spreadsheet (if applicable)]

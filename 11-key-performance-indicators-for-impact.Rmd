@@ -1,8 +1,8 @@
 # **Key Performance Indicators for Impact**
 
-The major key performance indicators for impact for iRISE are listed in Table 4. The pilot activities will be revised in accordance with the evolving co-creation strategy. Corresponding performance indicators might therefore be subject to change and in some instances, they are being defined during M1-5 of the project, hence at the time of the initial publication of this PM Handbook they are not complete. The project coordinator will monitor reasonable progress towards the key performance indicators throughout the project.\
+The major key performance indicators (KPIs) for impact across FORRT initiatives are outlined in Table 4. These indicators help guide our work and measure progress toward our long-term mission to embed open and reproducible scholarship into education and research culture.
 
-A detailed description of iRISE's pathway to impact can be found in the [iRISE Grant Agreement](https://charitede.sharepoint.com/:b:/r/sites/iRISE/Shared%20Documents/General/Grant%20Agreement/Amendment%20-%20AMD-101094853-4_Grant%20Agreement%20iRISE.pdf?csf=1&web=1&e=SqVvdc).
+As FORRT's projects are community-led and iterative, specific indicators may evolve as strategies are refined or new activities emerge. Some indicators are still being co-developed and may be updated over time. Team leads and the Steering Council collaboratively monitor reasonable progress toward these indicators.
 
 _**Table 4**: Key Performance Indicators for Impact_
 
@@ -31,15 +31,19 @@ _**Table 4**: Key Performance Indicators for Impact_
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
 | Open knowledge base                                                       |                                                      |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-| iRISE-SOLES                                                               |                                                      |             |
+| FORRT Replication Hub tools and databases                                 | Updated versions of tools (e.g., FReD, RID)          |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-| iRISE Framework                                                           |                                                      |             |
+| FORRT Frameworks and Teaching Resources                                   |                                                      |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-| Training materials                                                        |                                                      |             |
+| Training materials                                                        | No. of new lesson plans or slide decks released      |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-| Social media                                                              | No. of Press Releases                                |             |
+| Social media                                                              | No. of press releases                                |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-|                                                                           | No. of X posts                                       |             |
+|                                                                           | No. of X (Twitter) posts                             |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
-| Website                                                                   | No. of Visits                                        |             |
+| Website                                                                   | No. of unique visits                                 |             |
 +---------------------------------------------------------------------------+------------------------------------------------------+-------------+
+
+[OPEN QUESTION: Should each team define its own KPIs or adapt shared ones from this table to reflect different rhythms and project scopes?]
+
+[INSERT LINK TO IMPACT TRACKER SHEET?]
